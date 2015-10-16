@@ -1,5 +1,5 @@
 LOCATE_LIBRARY(LIBSWARM "swarm/http_request.hpp" "swarm")
-LOCATE_LIBRARY(LIBSWARM_URLFETCHER "swarm/urlfetcher/url_fetcher.hpp" "swarm_urlfetcher")
+LOCATE_LIBRARY(LIBSWARM "swarm/urlfetcher/url_fetcher.hpp" "swarm_urlfetcher")
 
 find_package(Boost COMPONENTS system thread REQUIRED)
 
