@@ -1,3 +1,9 @@
+cocaine-plugins (0.12.4.2) unstable; urgency=low
+
+  * Disable URFETCH and ELASTICSEARCH plugins
+
+ -- Alexey Mochkin <alukardd@alukardd.org>  Mon, 19 Oct 2015 16:25:10 +0300
+
 cocaine-plugins (0.12.4.1) unstable; urgency=low
 
   * Adapt package to build in Jessie
